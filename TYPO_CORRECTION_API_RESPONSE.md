@@ -1,0 +1,9 @@
+```
+{
+"status":"Ok",
+"additionalStatus":"None",
+"emailAddressProvided":"john99]@gmail.com",
+"emailAddressChecked":"john99@gmail.com",
+"emailAddressSuggestion":""
+}
+```

@@ -1,0 +1,9 @@
+```
+{
+“status”:“Bad”,
+“additionalStatus”:“MailboxDoesNotExist”,
+“emailAddressProvided”:“test@tester.com”,
+“emailAddressChecked”:“test@tester.com”,
+“emailAddressSuggestion”:“”
+}
+```
