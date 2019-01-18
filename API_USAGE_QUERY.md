@@ -11,6 +11,7 @@ https://api.emailverifyapi.com/api/a/v1?key=XYZ123&usage=1
     "dateUsage" : 8353,
     "month" : "2017-10",
     "monthUsage" : 269558
+    "credits" : 5436
 }
  
 But with a date from a previous month added to the query then the month stats are for that month e.g.
@@ -24,4 +25,5 @@ https://api.emailverifyapi.com/api/a/v1?key=XYZ123&usage=1&date=2017-09-14
     "dateUsage" : 11458,
     "month" : "2017-09",
     "monthUsage" : 467181
+    "credits" : 5436
 }
